@@ -1,0 +1,22 @@
+body{
+    background-color: #0E2954;
+}
+.card{
+    margin: 10px;
+}
+.row{
+    margin-left: 40px;
+}
+.btn{
+    color: #DAFFFB;
+    background-color: #0E2954;
+    font-size: 1em;
+}
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: #DAFFFB;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3em;
+}
